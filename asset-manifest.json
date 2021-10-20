@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/find-airplane-game-react/static/css/main.ec19d852.chunk.css",
+    "main.js": "/find-airplane-game-react/static/js/main.2974f5e3.chunk.js",
+    "main.js.map": "/find-airplane-game-react/static/js/main.2974f5e3.chunk.js.map",
+    "runtime-main.js": "/find-airplane-game-react/static/js/runtime-main.62200ee8.js",
+    "runtime-main.js.map": "/find-airplane-game-react/static/js/runtime-main.62200ee8.js.map",
+    "static/js/2.475e7486.chunk.js": "/find-airplane-game-react/static/js/2.475e7486.chunk.js",
+    "static/js/2.475e7486.chunk.js.map": "/find-airplane-game-react/static/js/2.475e7486.chunk.js.map",
+    "index.html": "/find-airplane-game-react/index.html",
+    "static/css/main.ec19d852.chunk.css.map": "/find-airplane-game-react/static/css/main.ec19d852.chunk.css.map",
+    "static/js/2.475e7486.chunk.js.LICENSE.txt": "/find-airplane-game-react/static/js/2.475e7486.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62200ee8.js",
+    "static/js/2.475e7486.chunk.js",
+    "static/css/main.ec19d852.chunk.css",
+    "static/js/main.2974f5e3.chunk.js"
+  ]
+}
